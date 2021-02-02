@@ -18,6 +18,6 @@ Arguments are passed through:
 $ npx publish-if-not-exists --dry-run
 ```
 
-## --
+--
 
-Agus Zubiaga - 2021
+[Agus Zubiaga](https://aguz.me) | 2021
