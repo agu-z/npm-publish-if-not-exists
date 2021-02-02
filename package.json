@@ -1,0 +1,24 @@
+{
+  "name": "publish-if-not-exists",
+  "version": "1.0.0",
+  "description": "Run npm publish if package.json version does not exist",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agu-z/npm-publish-if-not-exists.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "Agus Zubiaga <hi@aguz.me>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/agu-z/npm-publish-if-not-exists/issues"
+  },
+  "homepage": "https://github.com/agu-z/npm-publish-if-not-exists#readme",
+  "dependencies": {}
+}
